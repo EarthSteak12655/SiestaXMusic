@@ -4,7 +4,7 @@
 
 # SiestaXMusic
 
-[SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[SiestaXMusic](https://github.com/EarthSteak12655/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -59,7 +59,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy SiestaXMusic on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TechShreyash/SiestaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/EarthSteak12655/SiestaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a>
 
 > How to Deploy To Heroku? [Watch Tutorial](https://www.youtube.com/embed/NPTk-awGalY)
 
@@ -102,7 +102,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TechShreyash/SiestaXMusic
+shikhar@MacBook~ $ git clone https://github.com/EarthSteak12655/SiestaXMusic
 shikhar@MacBook~ $ cd SiestaXMusic
 shikhar@MacBook~ $ sudo bash setup
 ```
